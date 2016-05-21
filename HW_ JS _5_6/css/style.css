@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	margin-top: 300px;
+}
+
+#timer {
+	font-family: "Calibri";
+	font-size: 100px;
+	font-weight: 300;
+}
+
+button {
+	width: 100px;
+	height: 35px;
+}
+
+button:hover {
+	cursor: pointer;
+}
